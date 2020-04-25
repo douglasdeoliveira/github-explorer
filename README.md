@@ -47,7 +47,7 @@ O Github Explorer é um projeto para buscar repositórios do Github e listar sua
 Faça o clone deste repositório:
 
 ```
-git clone https://github.com/frfontoura/gostack-github-explorer
+git clone https://github.com/douglasdeoliveira/github-explorer
 ```
 
 Instale as dependências utilizando:
